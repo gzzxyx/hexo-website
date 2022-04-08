@@ -15,7 +15,7 @@
     "bulma-stylus": "^0.8.0",
     "gulp": "^4.0.2",
     "gulp-cli": "^2.3.0",
-    "hexo": "^5.0.0",
+    "hexo": "^5.4.2",
     "hexo-abbrlink": "^2.2.1",
     "hexo-admin-qiniu": "^2.2.0",
     "hexo-deployer-git": "^3.0.0",
